@@ -4,7 +4,7 @@
 	'MsgBox Plex
 	
 	DestF 	= "C:\TempPlex"
-	DestF2 	= "C:\TempPlex2"
+
 	File1 	= "Hamma.Scanner"
 	myURL1 	= "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/master.zip"
 	File2 	= "Hamma.Plugin"
@@ -51,6 +51,7 @@
 	'MsgBox "Deleting Temo Folder"
 	DeleteFolder DestF
 	'MsgBox "Deleted temp folder"
+	
 '************************************************************************************************************
 	Sub Procesing(myURL,ImageFile,DestFolder)
 		Zip = ".zip"
