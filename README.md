@@ -11,6 +11,11 @@ Finally it will delete C:/TempPlex
 # The path where local application data is stored
 You will find this under Plex Settings > Server > "The path where local application data is stored"
 
+# Info
+My Agent for anime wasnt working well so I decided to reinstall it.
+I had forgotten how much of hassle it was the first time.
+So with a combination of 2am and caffiene I patched this script together, its a patchwork collection of sub scripts but works.
+
 # Plans
 
 To add in the option to be able to update Hama.bundle 's local installation.
