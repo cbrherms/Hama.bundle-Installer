@@ -8,6 +8,8 @@ Then it will create the folders that the files will go into.
 Following that it will then copy the files and folders required.
 Finally it will delete C:/TempPlex
 
+# The path where local application data is stored
+You will find this under Plex Settings > Server > "The path where local application data is stored"
 
 # Plans
 
